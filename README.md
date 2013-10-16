@@ -16,5 +16,5 @@ The workshop was designed following an invitation to participate in the project 
 * Tutor: Roberto Picerno
 * Participants: Giannicola Baiardi, Michele Bozzi, Francesca Centonze, Fabrizio Goglia, Nicolò Loprieno, Simona Materazzini, Roberto Memoli.
 
-Special thanks go to Antonio Ianiero and the [unterwelt.it](http://unterwlet.it) crew for the generous advice.
+Special thanks go to Antonio Ianiero and the [unterwelt.it](http://unterwelt.it) crew for the generous advice.
 
